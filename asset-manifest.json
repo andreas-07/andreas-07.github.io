@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.3e63e2e6.css",
-    "main.js": "/react-gh-pages/static/js/main.f559a180.js",
-    "static/js/787.330da797.chunk.js": "/react-gh-pages/static/js/787.330da797.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.3e63e2e6.css.map": "/react-gh-pages/static/css/main.3e63e2e6.css.map",
-    "main.f559a180.js.map": "/react-gh-pages/static/js/main.f559a180.js.map",
-    "787.330da797.chunk.js.map": "/react-gh-pages/static/js/787.330da797.chunk.js.map"
+    "main.css": "/andreas-07.github.io/static/css/main.9f34b8d8.css",
+    "main.js": "/andreas-07.github.io/static/js/main.c1d99dba.js",
+    "static/js/107.33c98abd.chunk.js": "/andreas-07.github.io/static/js/107.33c98abd.chunk.js",
+    "index.html": "/andreas-07.github.io/index.html",
+    "main.9f34b8d8.css.map": "/andreas-07.github.io/static/css/main.9f34b8d8.css.map",
+    "main.c1d99dba.js.map": "/andreas-07.github.io/static/js/main.c1d99dba.js.map",
+    "107.33c98abd.chunk.js.map": "/andreas-07.github.io/static/js/107.33c98abd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e63e2e6.css",
-    "static/js/main.f559a180.js"
+    "static/css/main.9f34b8d8.css",
+    "static/js/main.c1d99dba.js"
   ]
 }
